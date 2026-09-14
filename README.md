@@ -1,4 +1,6 @@
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anna-trivette)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trivan26@wfu.edu)
+[![Resume](https://img.shields.io/badge/Download-Resume-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Anna-Angel/Anna-Angel/raw/main/Resume.pdf)
 
 https://github.com/user-attachments/assets/0b3c54b0-2f8f-4764-93cf-f102a75fd543
 
